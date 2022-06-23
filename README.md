@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="[https://linkedin.com/in/timon-post-714a9482](https://www.linkedin.com/in/kziemianek/)"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kziemianek/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
